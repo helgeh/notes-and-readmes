@@ -13,9 +13,9 @@
 # Kantene
 
 #### 3 stk uferdig *(T - solved på Back)*
-hvis høyre hører hjemme på venstre
-` R  U' R  U  R  U  R  U' R' U' R2`
-hvis venstre hører hjemme på høyre
+hvis høyre hører hjemme på venstre <br>
+` R  U' R  U  R  U  R  U' R' U' R2` <br>
+hvis venstre hører hjemme på høyre <br>
 ` L' U  L' U' L' U' L' U  L  U  L2   ||   R2 U R U R' U' R' U' R' U R'`
 
 
@@ -23,7 +23,7 @@ hvis venstre hører hjemme på høyre
 ` M2 U' M2 U2 M2 U' M2 `
 
 #### 4 stk uferdige *(diagonal swap / adjacents)*
-ha de som skal swappes på Front og Right
+ha de som skal swappes på Front og Right <br>
 ` M' U' M2 U' M2 U' M' U2 M2    -- (M' goes upwards)`
 
 
