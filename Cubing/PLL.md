@@ -24,7 +24,7 @@ hvis venstre hører hjemme på høyre <br>
 
 #### 4 stk uferdige *(diagonal swap / adjacents)*
 ha de som skal swappes på Front og Right <br>
-` M' U' M2 U' M2 U' M' U2 M2    -- (M' goes upwards)`
+` M' U' M2 U' M2 U' M' U2 M2 (U )    -- (M' goes upwards)`
 
 
 
