@@ -1,6 +1,10 @@
-[Easy 2-Look PLL Tutorial (Beginner CFOP)](https://www.youtube.com/watch?v=f_Yor-ydZjs&ab_channel=JPerm)
+# Links
 
+[JPerm's 2-Look PLL (youtube)](https://www.youtube.com/watch?v=f_Yor-ydZjs&ab_channel=JPerm)
 
+[2x2 PLL (speedsolving.com)](https://www.speedsolving.com/wiki/index.php/PLL_(2x2x2))
+
+---
 # Hjørnene
 
 #### 4 stk uferdig *(diagonal corner swaps)*
@@ -9,7 +13,7 @@
 #### 2 stk uferdig *(adjacent corner swap)*
 ` (R  U  R' U' R' F )  R2  (U' R' U' R  U  R' F' ) `
 
-
+---
 # Kantene
 
 #### 3 stk uferdig *(T - solved på Back)*
@@ -18,6 +22,7 @@ hvis høyre hører hjemme på venstre <br>
 hvis venstre hører hjemme på høyre <br>
 ` L' U  L' U' L' U' L' U  L  U  L2   ||   R2 U R U R' U' R' U' R' U R'`
 
+---
 
 #### 4 stk uferdige *(opposite swap / plus)*
 ` M2 U' M2 U2 M2 U' M2 `
@@ -26,5 +31,5 @@ hvis venstre hører hjemme på høyre <br>
 ha de som skal swappes på Front og Right <br>
 ` M' U' M2 U' M2 U' M' U2 M2 (U )    -- (M' goes upwards)`
 
-
+---
 

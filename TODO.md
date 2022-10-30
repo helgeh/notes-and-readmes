@@ -5,3 +5,5 @@
 
 - konvertere stua
 - home server
+- prøv patagonia-klær
+- 
