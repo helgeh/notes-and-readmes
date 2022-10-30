@@ -16,10 +16,11 @@ First two layers. Matche hjørner med kanter og insert dem. Enkelt.
 
 ### hjørnan
  - ingen med H er enkel-f og 3x sexy
+ - ingen med π er [pugg algen]  R U2 (R2 U' R2 U' R2) U2 R
  - én solved, se solved *og* hjørne, sune / antisune (solved høyre / solved venstre)
  - to solved diag / vinkler, se hjørnene, snu kuben og gjør RURD
  - to solved, T, se ett til venstre, snu kuben og gjør LURU
- - to solved, U, se hjørnene, [finn på kallenavn, noe med mange R2 antakelig]
+ - to solved, U, se hjørnene, [finn på kallenavn, noe med mange R2 antakelig]  R2 D R' U2 R D' R' U2 R'
 
 ## Permutation of Last Layer (PLL)
 
