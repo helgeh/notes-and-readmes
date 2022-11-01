@@ -1,8 +1,18 @@
+---
+title: CFOP nøkkelord
+description: Enkel huskeliste og nøkkelord for (beginner) CFOP
+slug: 'cfop-huskeliste'
+image: '/images/oll-pll-huskeliste/image.png'
+---
 
 # CFOP (beginner)
 
+--- 
+
 ## Cross
 Krysset greier du. Prøv å gjøre det på færrest mulig moves og start planlegging av neste steg.
+
+---
 
 ## F2L
 First two layers. Matche hjørner med kanter og insert dem. Enkelt.
