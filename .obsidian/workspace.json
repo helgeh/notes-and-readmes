@@ -74,7 +74,7 @@
               "type": "markdown",
               "state": {
                 "file": "Cubing/oll-pll-huskeliste.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -199,9 +199,9 @@
   },
   "active": "558c495ffb70ef84",
   "lastOpenFiles": [
-    "Cubing/PLL.md",
     "Cubing/OLL.md",
     "Cubing/oll-pll-huskeliste.md",
+    "Cubing/PLL.md",
     "Homeserver/README.md",
     "TODO.md",
     "Random notes.md",
