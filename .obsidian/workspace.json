@@ -22,31 +22,30 @@
             }
           },
           {
-            "id": "757d4ff2b79ce630",
+            "id": "adff66e97ca17e27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cubing/README.md",
+                "file": "Cubing/PLL.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ae998845bb1e5697",
+            "id": "4524a14c3991e779",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cubing/PLL.md",
-                "mode": "preview",
+                "file": "Cubing/OLL.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cubing/PLL.md",
+                "file": "Cubing/oll-pll-huskeliste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cubing/PLL.md",
+                "file": "Cubing/oll-pll-huskeliste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cubing/PLL.md"
+                "file": "Cubing/oll-pll-huskeliste.md"
               }
             }
           }
@@ -163,17 +162,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ae998845bb1e5697",
+  "active": "8341ed1c91b51ae8",
   "lastOpenFiles": [
     "Cubing/README.md",
-    "Cubing/PLL.md",
+    "Cubing/oll-pll-huskeliste.md",
     "Cubing/OLL.md",
+    "Cubing/PLL.md",
+    "Minecraft Stuff.md",
     "TODO.md",
     "Homeserver/README.md",
-    "Cubing/oll-pll-huskeliste.md",
     "images/oll-pll-huskeliste/image.png",
     "Random notes.md",
-    "DEV-NOTES.md",
-    "Minecraft Stuff.md"
+    "DEV-NOTES.md"
   ]
 }

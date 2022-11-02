@@ -1,8 +1,5 @@
 # Links
 
-[JPerm's 2-Look OLL (youtube)](https://www.youtube.com/watch?v=GhmYBgLoQQg&ab_channel=JPerm)
-
-[2x2 OLL (speedsolving.com)](https://www.speedsolving.com/wiki/index.php/OLL_(2x2x2))
 
 ---
 
