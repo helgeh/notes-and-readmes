@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "87c1d3ca47301cdb",
+            "id": "757d4ff2b79ce630",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Cubing/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,13 +39,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homeserver/README.md",
-                "mode": "source",
+                "file": "Cubing/PLL.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c75a975abb7173b0",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cubing/oll-pll-huskeliste.md",
+                "file": "Cubing/PLL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cubing/oll-pll-huskeliste.md",
+                "file": "Cubing/PLL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cubing/oll-pll-huskeliste.md"
+                "file": "Cubing/PLL.md"
               }
             }
           }
@@ -163,14 +163,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8341ed1c91b51ae8",
+  "active": "ae998845bb1e5697",
   "lastOpenFiles": [
-    "images/oll-pll-huskeliste/image.png",
-    "Cubing/oll-pll-huskeliste.md",
-    "Cubing/OLL.md",
+    "Cubing/README.md",
     "Cubing/PLL.md",
-    "Homeserver/README.md",
+    "Cubing/OLL.md",
     "TODO.md",
+    "Homeserver/README.md",
+    "Cubing/oll-pll-huskeliste.md",
+    "images/oll-pll-huskeliste/image.png",
     "Random notes.md",
     "DEV-NOTES.md",
     "Minecraft Stuff.md"
