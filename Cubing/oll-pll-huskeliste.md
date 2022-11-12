@@ -32,7 +32,7 @@ First two layers. Matche hjørner med kanter og insert dem. Enkelt.
  - 1 stk, **sune / antisune**, se solved *og* hjørne,  (solved høyre / solved venstre)
  - 2 stk, **L**, diag / vinkler, se hjørnene, snu kuben og gjør RURD
  - 2 stk, **T**, se ett til venstre, snu kuben og gjør LURU
- - 2 stk, **U**, se hjørnene, starter med R2 ellers ingen, alle U er U2 [finn på kallenavn]  R2 D R' U2 R D' R' U2 R'
+ - 2 stk, **U**, se hjørnene, R (R D R' U2) (R D' R' U2) R'
 
 ---
 

@@ -17,4 +17,9 @@
 - [speedsolving.com](https://speedsolving.com)
 - [ruwix.com/](https://ruwix.com/)
 - [jperm.net](https://jperm.net/)
-- 
+
+
+# Annet
+
+document.querySelector('#lcd').onclick = () => (document.querySelector('.myscroll').style.height = '383px')
+
