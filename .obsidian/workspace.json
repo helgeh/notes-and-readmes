@@ -27,38 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cubing/my-cubes.md",
+                "file": "Minecraft Stuff.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "adff66e97ca17e27",
+            "id": "98437d3221e7b334",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cubing/OLL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4524a14c3991e779",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cubing/PLL.md",
+                "file": "Harry Mack.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cubing/my-cubes.md",
+                "file": "Harry Mack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cubing/my-cubes.md",
+                "file": "Harry Mack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cubing/my-cubes.md"
+                "file": "Harry Mack.md"
               }
             }
           }
@@ -175,17 +163,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4149d3e990b12524",
+  "active": "98437d3221e7b334",
   "lastOpenFiles": [
-    "Cubing/OLL.md",
-    "Cubing/my-cubes.md",
-    "Cubing/oll-pll-huskeliste.md",
-    "Cubing/PLL.md",
-    "Cubing/README.md",
     "Minecraft Stuff.md",
-    "TODO.md",
     "Homeserver/README.md",
-    "images/oll-pll-huskeliste/image.png",
-    "Random notes.md"
+    "Youtube kanaler.md",
+    "TODO.md",
+    "Random notes.md",
+    "Euro Truck Simulator.md",
+    "DEV-NOTES.md",
+    "Cubing/oll-pll-huskeliste.md",
+    "Cubing/my-cubes.md",
+    "Cubing/OLL.md"
   ]
 }

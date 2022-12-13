@@ -50,3 +50,19 @@ First two layers. Matche hjørner med kanter og insert dem. Enkelt.
 
 
 
+---
+---
+# 4x4
+
+https://www.youtube.com/watch?v=KWOZHbDdOeo&ab_channel=JPerm
+
+1. hvit og gul center
+2. de tre første hvite kantene
+3. resten av centers
+4. siste hvite kant
+5. resten av kantene
+
+Edge Flip ► R U R' F R' F' R 
+OLL Parity ► r U2 x r U2 r U2 r' U2 l U2 r' U2 r U2 r' U2 r' 
+PLL Parity ► 2R2 U2 2R2 u2 2R2 u2
+
