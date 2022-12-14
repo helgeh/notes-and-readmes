@@ -2,14 +2,22 @@
 ## Favoritt omegle bars:
 
 
-30 (briten i baren med San Miguel)
+30 "Buzzwords" (briten i baren med San Miguel)
 
 52 #2
 
 55 #1 og #4
 
 
+## For introduksjon
 
+50!
+
+54 "Jasmine"
+
+37 "A Tricky Situation"
+
+26 "Rap Meditation"
 
 
 ___
