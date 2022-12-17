@@ -1,12 +1,15 @@
 
 ## Favoritt omegle bars:
 
+25 ALLE (+ pokemon galore i første og siste)
 
 30 "Buzzwords" (briten i baren med San Miguel)
 
 52 #2
 
-55 #1 og #4
+55 #1 ("Cup half full") og #4 ("Off the chain")
+
+70  alle men spes siste
 
 
 ## For introduksjon
@@ -19,6 +22,7 @@
 
 26 "Rap Meditation"
 
+25 alle, bra folk, pokemon-refs i fleng
 
 ___
 

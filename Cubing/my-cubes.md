@@ -26,7 +26,7 @@
 
 ---
 
-### mastercubestore.no 20221031 (IKKE ANKOMMET)
+### mastercubestore.no 20221031
 
 - MoYu RS2 M Evolution
 - MFJS MeiLong 2x2 Magnetic (Black)
