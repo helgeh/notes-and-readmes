@@ -24,6 +24,8 @@
 
 25 alle, bra folk, pokemon-refs i fleng
 
+24 alle, mega ordspill, grei fart, New York, max happy stemning
+
 ___
 
 ### Crazy Fast Double-Time Freestyles
