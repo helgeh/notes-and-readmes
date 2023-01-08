@@ -39,24 +39,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cubing/PLL.md",
+                "file": "Harry Mack.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7a2c6e870ab48598",
+            "id": "2b9e8f5f461ae8b3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.8"
+                "file": "Fresh-Install-ArcolinuxD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9573734d807c70c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minecraft Stuff.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cubing/PLL.md",
+                "file": "Fresh-Install-ArcolinuxD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cubing/PLL.md",
+                "file": "Fresh-Install-ArcolinuxD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cubing/PLL.md"
+                "file": "Fresh-Install-ArcolinuxD.md"
               }
             }
           }
@@ -183,17 +197,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "616c517b0bd3826f",
+  "active": "2b9e8f5f461ae8b3",
   "lastOpenFiles": [
-    "Learning Linux/Good Reads - Awesome Links.md",
-    "Cubing/oll-pll-huskeliste.md",
-    "Youtube kanaler.md",
-    "TODO.md",
-    "Random notes.md",
     "Minecraft Stuff.md",
-    "DEV-NOTES.md",
-    "Homeserver/README.md",
+    "Random notes.md",
+    "Fresh-Install-ArcolinuxD.md",
     "Harry Mack.md",
-    "Cubing/OLL.md"
+    "Untitled.md",
+    "GameDev/README.md",
+    "Minecraft/CraftacularMindcrap.md",
+    "Cubing/README.md",
+    "Dotfiles Tutorial.md",
+    "Youtube kanaler.md"
   ]
 }

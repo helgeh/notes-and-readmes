@@ -21,5 +21,7 @@
 
 # Annet
 
+https://js.cubing.net/cubing/
+
 document.querySelector('#lcd').onclick = () => (document.querySelector('.myscroll').style.height = '383px')
 

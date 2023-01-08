@@ -1,6 +1,14 @@
+Datapack Search
+https://www.planetminecraft.com/data-packs/
+
+OptiFine alternatives
+https://lambdaurora.dev/optifine_alternatives/
 
 Hermits Create server modlist
 https://docs.google.com/spreadsheets/d/145JMqoj4sVeOHrK1mEQB6V5z-7UnyLps8zFnO87OcFQ/edit#gid=1383401023
+
+Popular CTM Maps
+https://ctmrepository.com/index.php?action=popular
 
 
 # CTM Tveitacraft spillvert

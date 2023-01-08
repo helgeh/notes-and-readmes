@@ -9,6 +9,8 @@
 
 55 #1 ("Cup half full") og #4 ("Off the chain")
 
+68 "War Zone"
+
 70  alle men spes siste
 
 
@@ -17,6 +19,8 @@
 50!
 
 54 "Jasmine"
+
+39 (Womb to Tomb - A Child)
 
 37 "A Tricky Situation"
 
