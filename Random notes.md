@@ -4,6 +4,12 @@
 
 ---
 
+## ASUS TUF laptop
+Legacy ssd (Windows): INTEL SSDPEKNU512GZ
+
+
+---
+
 # Odin og GLFW trøbbel
 
 Googlet: `glfw error65543 glx failed create context badvalue `
