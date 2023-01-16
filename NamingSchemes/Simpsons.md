@@ -1,0 +1,182 @@
+## Characters
+
+-   Bart
+-   Lisa
+-   Homer
+-   Marge
+-   Maggie
+-   Milhouse
+-   Krusty
+-   Frink
+-   Kodos
+-   Kang
+-   Santa's Little Helper
+-   Snowball I & II
+-   Grandpa
+-   Moe
+-   Lurleen Lumpkin
+-   Mr. Burns
+-   Smithers
+-   Flanders
+-   Radioactive Man
+-   Maude Flanders
+-   Lenny
+-   Carl
+-   Willy
+-   Barney
+-   Blinky
+-   Bumble Bee Man
+-   Patty
+-   Selma
+-   Kent Brockman
+-   Duffman
+-   Fat Tony
+-   Fallout Boy
+-   Rod Flanders
+-   Todd Flanders
+-   Herman
+-   Julius Hibbert
+-   Lionel Hutz
+-   Itchy
+-   Scratchy
+-   Timothy Lovejoy
+-   Otto
+-   McBain
+-   Troy McClure
+-   Nelson Muntz
+-   Jimbo Jones
+-   Kearney Zzyzwicz
+-   Dolph Starbeam
+-   Apu
+-   Sideshow Bob (Robert Terwilliger)
+-   Cecil Terwilliger
+-   Major Quimby
+-   Principal Skinner
+-   Snake
+-   Police Chief Clancy Wiggum
+-   Ralph Wiggum
+-   Cletus
+-   Spider Pig
+-   Disco Stu
+
+
+## The cats
+ - Scratchy
+ - Snowball I
+ - Snowball II
+
+## Made Up Words
+
+-   Assal Horizontology
+-   BBBQ
+-   Beginulate
+-   BiMonSciFiCon
+-   Bloodening
+-   Blurst
+-   Boneis Eruptus
+-   Boo-urns
+-   Bort
+-   Buh
+-   Car Hole
+-   Cheese-eating Surrender Monkeys
+-   Chester A. Arthritis
+-   Chocobots
+-   Chocotastic
+-   Chowdah
+-   Clouseauesque
+-   CompuGlobalHyperMegaNet
+-   Craptacular
+-   Cromulent
+-   Debigulator
+-   De Fault
+-   Diddly
+-   Dickety
+-   Donder-Blitzen
+-   Dorkus Malorkus
+-   Double-Bacon Geniusburger
+-   Drunkening
+-   Dumbening
+-   Elbybone
+-   Embiggen
+-   Fit
+-   Flupid Bloroplope
+-   Flunjers, Capdabblers, Smendlers
+-   Foilage
+-   Frinkahedron
+-   Frogurt
+-   Führerific
+-   Funzo
+-   Gamblor
+-   Garbagewater
+-   Glayvin
+-   Hoaxiscope
+-   Homersexual
+-   Hoyvin-Mavin
+-   I, for one, welcome our new (insert word) overlords
+-   Interslice
+-   Jebeditis
+-   Jebus
+-   Jerkass
+-   Jerkface
+-   Klauh Kalesh
+-   Knowitallism
+-   Kwyjibo
+-   Learnding
+-   Lupper
+-   Malk
+-   Malparkage
+-   Meh
+-   Milpool
+-   Mmm, (gummi beers, chocolate, floor pie etc.)
+-   Momato
+-   Monsterometer
+-   Nuclear Panerplant
+-   Nucleon
+-   Nucular
+-   Ovulicious
+-   Panaphonics
+-   Poindextrose
+-   Possi-bligh
+-   Posturologists
+-   Pricetaggery
+-   Pull a Homer
+-   Quetzlzacatenango
+-   "Radioactivity"
+-   Rebigulator
+-   Re-Deadening
+-   Redorkulated
+-   Retirony
+-   Sacrilicious
+-   Saxomophone
+-   Scrabbleship
+-   Scientician
+-   Scotchtoberfest
+-   Screamapillar
+-   Shazbot
+-   Shinning
+-   Shirkaday
+-   Skittlebrau
+-   Smarch
+-   S-M-R-T
+-   Snacktacular
+-   SNUH
+-   Sophistimacated Dowhackey
+-   Speedholes
+-   Spirakeet
+-   Steamed Hams
+-   Superliminal
+-   Supernintendo Chalmers
+-   Thrillho
+-   Tomacco
+-   Tramapoline
+-   Trabapoline
+-   Tunk
+-   Unblowuppable
+-   Unpossible
+-   Vegetabletarian
+-   Worst (insert word) Ever
+-   Woozle Wuzzle
+-   Xt'Tapalatakettle
+-   Yoink!
+-   Yvan Eht Nioj
+

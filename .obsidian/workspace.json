@@ -22,43 +22,55 @@
             }
           },
           {
-            "id": "d2bb29c5c3320697",
+            "id": "bc36e04d4a34c577",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Youtube kanaler.md",
+                "file": "NamingSchemes/Asterix.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "616c517b0bd3826f",
+            "id": "193fa1c0925b25d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cubing/oll-pll-huskeliste.md",
+                "file": "NamingSchemes/South Park.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e9573734d807c70c",
+            "id": "3b5677fbb1f8ffb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minecraft Stuff.md",
+                "file": "NamingSchemes/Sopranos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de06c14918ceedef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homeserver/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -124,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cubing/oll-pll-huskeliste.md",
+                "file": "Homeserver/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cubing/oll-pll-huskeliste.md",
+                "file": "Homeserver/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cubing/oll-pll-huskeliste.md"
+                "file": "Homeserver/README.md"
               }
             }
           }
@@ -185,17 +197,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "616c517b0bd3826f",
+  "active": "de06c14918ceedef",
   "lastOpenFiles": [
-    "Cubing/OLL.md",
-    "Cubing/oll-pll-huskeliste.md",
-    "Homeserver/README.md",
-    "Fresh-Install-ArcolinuxD.md",
-    "Random notes.md",
-    "Harry Mack.md",
-    "Untitled.md",
-    "Minecraft Stuff.md",
-    "GameDev/README.md",
-    "Minecraft/CraftacularMindcrap.md"
+    "NamingSchemes/Ingvar Ambjørnsen.md",
+    "NamingSchemes/Asterix.md",
+    "NamingSchemes/Bønner.md",
+    "NamingSchemes/Cannabis.md",
+    "NamingSchemes/Sopranos.md",
+    "NamingSchemes/Seinfeld.md",
+    "NamingSchemes/Minecraft.md",
+    "NamingSchemes/Hermitcraft.md",
+    "NamingSchemes/Spices.md",
+    "NamingSchemes/South Park.md"
   ]
 }

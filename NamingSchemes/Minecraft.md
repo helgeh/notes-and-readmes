@@ -1,0 +1,36 @@
+# Materials
+
+-   Air
+-   Andesite
+-   Basalt
+-   Bedrock
+-   Blackstone
+-   Clay
+-   Coal
+-   Cobblestone
+-   Concrete
+-   Copper
+-   Deepslate
+-   Diamond
+-   Diorite
+-   Dirt
+-   Emerald
+-   End Stone
+-   Glass
+-   Gold
+-   Granite
+-   Ice
+-   Iron
+-   Lapis Lazuli
+-   Netherite
+-   Prismarine
+-   Obsidian
+-   Quartz
+-   Redstone
+-   Sand
+-   Sandstone
+-   Snow
+-   Stone
+-   Terracotta
+-   Wood
+-   Wool
