@@ -19,3 +19,8 @@ Awesome-compose: https://github.com/docker/awesome-compose
 
 Logo programming language: https://en.wikipedia.org/wiki/Logo_(programming_language)
 
+
+
+# Fonter
+https://www.nerdfonts.com/font-downloads
+

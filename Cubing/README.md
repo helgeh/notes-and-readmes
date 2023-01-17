@@ -21,6 +21,8 @@
 
 # Annet
 
+https://cstimer.net/
+https://scramble.cubing.net/
 https://js.cubing.net/cubing/
 
 document.querySelector('#lcd').onclick = () => (document.querySelector('.myscroll').style.height = '383px')

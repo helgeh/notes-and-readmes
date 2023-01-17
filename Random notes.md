@@ -2,6 +2,16 @@
 - [keychron](https://www.keychron.com/products/keychron-k8-pro-qmk-via-wireless-mechanical-keyboard?variant=40024462327897) ... fra [dustin](https://www.dustinhome.no/product/5011302173/k8-pro-qmkvia-rgb-aluminium-hot-swap-red)
 - [realforce?](https://www.realforcekeyboards.com/uk/)
 
+
+# Musikk på Linux
+https://www.linuxlinks.com/best-free-open-source-software-audio/
+http://linux-sound.org/
+https://lsp-plug.in
+
+anbefalte synther: odin2, vital, zynaddsubfx (with zynfusion skin?), 
+
+
+
 ---
 
 ## ASUS TUF laptop
