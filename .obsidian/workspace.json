@@ -22,19 +22,54 @@
             }
           },
           {
-            "id": "de06c14918ceedef",
+            "id": "9955642d7e3e0af9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEV-NOTES.md",
+                "file": "Learning Linux/Fresh-Install-ArcolinuxD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6dbe99f0619b8238",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning Linux/Installere laptopen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9559b49bd78311aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Harry Mack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9962b69972184b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Harry Mack/Off The Chain.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEV-NOTES.md",
+                "file": "Cubing/oll-pll-huskeliste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DEV-NOTES.md",
+                "file": "Cubing/oll-pll-huskeliste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEV-NOTES.md"
+                "file": "Cubing/oll-pll-huskeliste.md"
               }
             }
           }
@@ -161,17 +196,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de06c14918ceedef",
+  "active": "8341ed1c91b51ae8",
   "lastOpenFiles": [
-    "Euro Truck Simulator.md",
-    "Random notes.md",
-    "Youtube kanaler.md",
-    "Untitled.md",
-    "Minecraft/Minecraft Stuff.md",
-    "Learning Linux/Dotfiles Tutorial.md",
+    "Harry Mack/Off The Chain.md",
+    "Harry Mack.md",
+    "Untitled 1.md",
+    "TEMP.md",
+    "Learning Linux/Installere laptopen.md",
     "Learning Linux/Fresh-Install-ArcolinuxD.md",
-    "Minecraft/Enchantments.md",
-    "DEV-NOTES.md",
-    "Learning Linux/Good Reads - Awesome Links.md"
+    "Learning Linux/Good Reads - Awesome Links.md",
+    "Learning Linux/Dotfiles Tutorial.md",
+    "Cubing/my-cubes.md",
+    "Homeserver/README.md"
   ]
 }

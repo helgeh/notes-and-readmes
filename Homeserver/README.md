@@ -22,5 +22,9 @@
 - https://wiki.archlinux.org/title/Wireshark
 
 
+## Docker getting-started tuts/tips
+
+https://www.youtube.com/watch?v=kIqWxjDj4IU
+
 
 
