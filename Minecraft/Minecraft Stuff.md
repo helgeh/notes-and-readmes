@@ -1,3 +1,10 @@
+
+MapartCraft
+https://rebane2001.com/mapartcraft/
+
+Block Palettes
+https://www.blockpalettes.com/palettes?block=mangrove_planks
+
 Datapack Search
 https://www.planetminecraft.com/data-packs/
 

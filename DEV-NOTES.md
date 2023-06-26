@@ -24,3 +24,38 @@ Logo programming language: https://en.wikipedia.org/wiki/Logo_(programming_langu
 # Fonter
 https://www.nerdfonts.com/font-downloads
 
+
+
+---
+
+
+
+# Domenenavn
+
+### forslag
+ - \[...\].ocyt.es (alle navn på celler i kroppen ender på -ocytes)
+	 - micr.ocyt.es
+	 - astr.ocyt.es
+	 - phag.ocyt.es
+	 - mon.ocyt.es
+	 - ameb.ocyt.es
+- \[...\].uett.es
+	- bag.uett.es
+	- (n)etiq.uett.es
+	- commentiq.uett.es
+	- piro.uett.es
+	- stat.uett.es
+- \[...\].uenci.es
+	- fl.uenci.es
+	- freq.uenci.es
+	- delinq.uenci.es
+	- constit.uenci.es
+	- affl.uenci.es
+- \[...\].titut.es
+	- ins.titut.es
+	- des.titut.es
+	- res.titut.es
+	- cons.titut.es
+	- pros.titut.es
+	- subs.titut.es
+- \[...\].
