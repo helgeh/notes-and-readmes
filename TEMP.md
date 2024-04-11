@@ -1,50 +1,18 @@
 
 
-mulig å se artikler bak mur slik?
-https://webcache.googleusercontent.com/search?q=cache:https://www.dn.no/kommentar/forsvaret/etterretning/verneplikten/velkommen-til-narko-nord-gar-du-opp-eller-gar-du-ut/2-1-1411725
+cha nnel se arch
+
+
+https://cha.nnel.se/arch
+
+channel
+funnel
+tunnel
+kennel
 
 
 
-
-start fortress farm på gaaba her: 159, 76, -1520
-
-  farm-portalen: 159, 78, -1517
-
-159, 207, -1520
+tu.nnel.se/arch
 
 
----
-
-
-
--240, -383   (-1920, -3064)
-
-
-bedrock hole: Targeted block -221, 127, -364
-
-
-
--1918 -2810  (-241 -353)
-
-
----
-
-nether roof network start
-
-Circle Mountain Hole:  -1545, -2205   (-193, -275)
-
-   -- pigman farmen: -225, -351
-
-
-Ørken/Mesa Base:  3000, 2000   (375, 250)
-
-
-Frozen Ocean:  0, -2000   (0, -250)
-
-
-
-
-
-
-Slime chunks:
--3382, -2568 (???)
+Heal_Base:5|Dash_Base:2|Nova_Slow:2|Rampage_Base:1|Vein_Miner_Base:2|Stonefall_Base:1|Javelin_Piercing:2|Fireball_Volley:1;Haste:2|Strength:4|Speed:1|Sorcery:3|Witchery:4|Javelin_Damage:7;Heal_Base|0

@@ -7,6 +7,7 @@
 -   Sensemilla
 -   Skunk
 -   Grass
+-   Herb
 -   Ganja
 -   Mary Jane
 -   Hundro
@@ -15,9 +16,14 @@
 -   Hash
 -   Kef
 -   Reefer
+-   Jive
 -   Spliff
 -   Roach
 -   Cannabis
+-   Plante
+-   Blomst
+-   Urt
+-   Ugress
 
 ### Hashish
 
@@ -27,6 +33,7 @@
 -   Afghan
 -   Pollen
 -   Turk
+-   Leb
 
 
 ## CB Legends
@@ -40,6 +47,7 @@ Seth Rogen
 Bob Marley
 Snoop Dogg
 Willie Nelson
+Louis Armstrong
 
 
 Hunter S. Thompson
@@ -47,6 +55,7 @@ Wiz Khalifa
 B Real (Cypress Hill)
 Peter Tosh
 Kevin Smith
+Cheech & Chong
 
 Ethan Nadelmann
 

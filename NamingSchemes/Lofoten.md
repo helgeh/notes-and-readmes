@@ -33,7 +33,7 @@
  - Eltoft
  - Saupstad
  - Liland
- - Bøstda
+ - Bøstad
  - Nykmark
  - Nervoll
  - Holddal

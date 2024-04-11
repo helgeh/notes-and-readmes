@@ -10,3 +10,10 @@ _Wilhelmsen_ (i 1. etasje), _Abraham_, _Sanger-Olav_, _Niels med beinet_ og _Spr
 Steder: _Rockwool_ (eller «Rocke-vollen»), _Fristranda_, _Fjellgata 49_, _Lillevik_, _B-52_, 
 
 
+## Den siste revejakta
+
+ - _Carl F. Vang_
+ - _Robert Abler_
+
+_Tone, Svend, Per Svartdal (Svarten), Knudsen (Stalin-Knutsen), Birger_
+
