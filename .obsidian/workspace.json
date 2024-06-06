@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "356b77c8c36f0197",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bjornsand/Bruk 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe100a1b1659d150",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linode.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,17 +166,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe100a1b1659d150",
+  "active": "d143015a5605500c",
   "lastOpenFiles": [
-    "Bjornsand/README.md",
+    "Bjornsand/Ferdig tekst bnr 1.md",
+    "Untitled.md",
     "Linode.md",
+    "Random notes.md",
+    "TEMP.md",
+    "Linode Game Servers.md",
+    "Bjornsand/Bruk 1.md",
+    "Just do it.md",
+    "Publish.Editor.FrontEnd.md",
+    "Bjornsand/README.md",
     "Euro Truck Simulator.md",
     "DEV-NOTES.md",
     "asdf.md",
-    "TEMP.md",
-    "Random notes.md",
-    "Linode Game Servers.md",
-    "Bjornsand/Bruk 1.md",
     "Bjornsand/Hovedtekst-kopi.md",
     "Bjornsand/ny test.md",
     "Untitled 1.md",
@@ -215,10 +194,6 @@
     "Minecraft/VanillaTweaks.md",
     "Minecraft/SpaceCrafting.md",
     "Minecraft/ServerStuff.md",
-    "Minecraft/Minecraft Stuff.md",
-    "Minecraft/Koordinater.md",
-    "Minecraft/Kollis-Server.md",
-    "Minecraft/Enchantments.md",
     "Bjornsand",
     "Bjørnsand",
     "Podcast",

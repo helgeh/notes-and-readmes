@@ -29,9 +29,9 @@ sudo docker run --name begynnelse-1.0.2-0 --restart unless-stopped --volume ./da
 
 ---
 
-sudo docker buildx build -t admin-blokkdannelse -t admin-blokkdannelse:0.0.4 .
+sudo docker buildx build -t admin-blokkdannelse -t admin-blokkdannelse:0.0.8 .
 
-sudo docker run --name adm-blokkda-07-temp --restart unless-stopped --volume ./data/public:/home/node/app/public --volume ./data/logs:/home/node/app/logs --volume /opt/minecraft/.config:/home/node/.opt-minecraft --net proxiable --net-alias admin-blokkdannelse -d admin-blokkdannelse
+sudo docker run --name adm-blokkda-08 --restart unless-stopped --volume ./data/public:/home/node/app/public --volume ./data/logs:/home/node/app/logs --volume /opt/minecraft/.config:/home/node/.opt-minecraft -e MC_RCON_PW=\*\*\* --net proxiable --net-alias admin-blokkdannelse -d admin-blokkdannelse
 
 sudo docker container rename admin-blokkdannelse-0.0.4 adm-blokkda
 
