@@ -39,8 +39,10 @@ snu pi'en til høyre - 2 gule på Left, en Front og 1 på Back <br>
 #### Hvis 1 hjørne ferdig: *(start med dette og en synlig gulfarge mot selv)*
 ![line](/images/Cubing/OLL/sune-example-2.png)
 `R  U  R' U  R  U2 R'  (Sune)` <br>
+![line](/images/Cubing/OLL/antisune-example-2.2.png)
+`L' U' L  U' L' U2 L   (Antisune)` <br>
 ![line](/images/Cubing/OLL/antisune-example-2.png)
-`L' U' L  U' L' U2 L   (Antisune)`
+`R  U2 R' U' R  U' R'   (Antisune)`
 
 ---
 

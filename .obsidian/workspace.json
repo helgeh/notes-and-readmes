@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linode.md",
+                "file": "NamingSchemes/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 252.5
   },
   "right": {
     "id": "c75a975abb7173b0",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linode.md",
+                "file": "NamingSchemes/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linode.md",
+                "file": "NamingSchemes/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linode.md"
+                "file": "NamingSchemes/README.md"
               }
             }
           },
@@ -168,36 +168,45 @@
   },
   "active": "d143015a5605500c",
   "lastOpenFiles": [
-    "Bjornsand/Ferdig tekst bnr 1.md",
     "Untitled.md",
+    "Cubing/PLL.md",
+    "Handleliste.md",
+    "Oppskrifter.md",
     "Linode.md",
-    "Random notes.md",
-    "TEMP.md",
-    "Linode Game Servers.md",
-    "Bjornsand/Bruk 1.md",
-    "Just do it.md",
-    "Publish.Editor.FrontEnd.md",
-    "Bjornsand/README.md",
-    "Euro Truck Simulator.md",
-    "DEV-NOTES.md",
-    "asdf.md",
-    "Bjornsand/Hovedtekst-kopi.md",
-    "Bjornsand/ny test.md",
-    "Untitled 1.md",
-    "gamle-gode.md",
-    "Mitt Arkiv.md",
+    "Cubing/OLL.md",
+    "images/Cubing/OLL/antisune-example-2.2.png",
+    "images/Cubing/PLL/Z-example-2.2.png",
+    "Cubing/oll-pll-huskeliste.md",
+    "images/Cubing/OLL/sune-example-2.png",
+    "images/Cubing/OLL/line-example-1.png",
+    "images/Cubing/OLL/line-example-2.png",
+    "images/Cubing/OLL/Pi-example-2.png",
+    "images/Cubing/PLL/Z-example-2.png",
+    "images/Cubing/PLL/Ub-example-2.png",
+    "images/Cubing/PLL/Ua-example-2.png",
+    "images/Cubing/PLL/headlights-example-2.png",
+    "images/asdf.pdf",
+    "Cubing/README.md",
+    "Cubing/my-cubes.md",
     "TODO.md",
-    "Homeserver/README.md",
-    "Learning Linux/Installere laptopen.md",
-    "Learning Linux/Good Reads - Awesome Links.md",
-    "Learning Linux/Fresh-Install-ArcolinuxD.md",
-    "Minecraft/VanillaTweaks.md",
-    "Minecraft/SpaceCrafting.md",
+    "TEMP.md",
+    "Minecraft/Minecraft Stuff.md",
+    "asdf.md",
+    "Minecraft/Astro Poltroons.md",
     "Minecraft/ServerStuff.md",
+    "Minecraft/AetherMod.md",
+    "Minecraft/ByggIdeer.md",
+    "Minecraft/CraftacularMindcrap.md",
+    "Minecraft/Enchantments.md",
+    "Minecraft/Kollis-Server.md",
+    "Minecraft/SpaceCrafting.md",
+    "Minecraft/VanillaTweaks.md",
+    "NamingSchemes/README.md",
+    "Linode Game Servers.md",
+    "Bjornsand/Ferdig tekst bnr 1.md",
     "Bjornsand",
     "Bjørnsand",
     "Podcast",
-    "images/Cubing/PLL/asdf.pdf",
     "images/Cubing/PLL/Unconfirmed 324792.crdownload",
     "Cervantes-test"
   ]

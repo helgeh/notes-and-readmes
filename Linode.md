@@ -12,7 +12,23 @@ https://superuser.com/questions/604998/monitor-tcp-traffic-on-specific-port/8489
 sudo iptables -I INPUT -s 141.98.7.14 -j DROP
 ```
 
+ServerSeeker_net:
+```
+sudo iptables -I INPUT -s 109.123.240.84 -j DROP
+```
 
+mcsrvstat.us
+```
+sudo iptables -I INPUT -s 104.26.15.225 -j DROP
+```
+api.mcsrvstat.us
+```
+sudo iptables -I INPUT -s 172.67.71.106 -j DROP
+```
+Nei, ta det ved roten (spirit55555.dk)
+```
+sudo iptables -I INPUT -s 139.162.177.160 -j DROP
+```
 ---
 ---
 

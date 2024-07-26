@@ -16,7 +16,21 @@
  - VillagersPlus
  - ShulkersPlus (?)
  - 
+### Enda nye modder å legge til
+- Better Combat
+	- (playerAnimator)
+- Gobber
+- Simply Swords
+- Botania
+- Patchouli
 
+
+### Eirik sine armor-mods å legge til
+ - Legendary Armory
+ - Immersive Armors
+ - Epic Knights: Shields Armor and Weapons
+ - Architectury API
+ - Cloth Config API
 
 
 ---

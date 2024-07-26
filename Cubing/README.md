@@ -25,5 +25,15 @@ https://cstimer.net/
 https://scramble.cubing.net/
 https://js.cubing.net/cubing/
 
+
+# Sende til Odin og Eirik
+ - [Beginner tutorial](https://youtu.be/GANnG5a19kg)
+ - [Faster beginner](https://youtu.be/vmeleO65BHc)
+ - [Proper F2L](https://youtu.be/Ar_Zit1VLG0?list=PLI24ciRbl8BUHEeOBaLXY4GpaVXSULYp4)
+ - [OLL](https://youtu.be/GhmYBgLoQQg?list=PLI24ciRbl8BUHEeOBaLXY4GpaVXSULYp4)
+ - [PLL](https://youtu.be/f_Yor-ydZjs?list=PLI24ciRbl8BUHEeOBaLXY4GpaVXSULYp4)
+
+
+
 document.querySelector('#lcd').onclick = () => (document.querySelector('.myscroll').style.height = '383px')
 

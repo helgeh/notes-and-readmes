@@ -17,68 +17,19 @@ https://docs.google.com/spreadsheets/d/145JMqoj4sVeOHrK1mEQB6V5z-7UnyLps8zFnO87O
 Popular CTM Maps
 https://ctmrepository.com/index.php?action=popular
 
+Enchantment Ordering Tool
+https://iamcal.github.io/enchant-order/
 
-# CTM Tveitacraft spillvert
+
+# Servere/maps
+
+## Gaaba/realmen
+
 ```
-server-name=Tveitacraft_CTM
-motd=CTM 1.14.4
-level-seed=
-level-name=World
+Seed: -152246528000119912
+
+Ny seed (large biomes)?: -129775671559085554
 ```
-
-
-# Ny Tveitacraft server
-```
-server-name=Tveitacraft
-motd=Vanilla 1.19 (pluss)
-level-seed=4006223464530337273
-level-name=World5
-```
-
-
-# Ny MODDA Tveitacraft
-```
-server-name=Tveitacraft_Modda
-motd=Custom Modpack for 1.19.2
-level-name=World
-level-seed=-2112805802007182112
-level-seed=-3773098126057437624 <-- heftig start!
-```
-
-**MODS:**
-Create (+ addons?)
-Botania
-Storage Drawers
-Applied Energistics 2
-ChiselsBits
-Decorative Blocks
-
-Croptopia ? (needs Patchouli)
-
-_QOL:_
-RoughlyEnoughItems
-The One Probe
-Appleskin
-Gravestone
-
-_utils:_
-BetterAdvancements
-BetterF3
-Controlling
-ModMenu
-Freecam
-Beenfo ?
-
-_graphics/performance:_
-Sodium
-Lithium
-Indium
-Phosphor
-
-_extra_
-Disable Custom Worlds Advice
-AttributeFix ?
-Better Compatibility Checker
 
 
 ---

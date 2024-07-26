@@ -34,7 +34,7 @@ hvis venstre hører hjemme på høyre <br>
 ` M2 U' M2 U2 M2 U' M2 `
 
 #### 4 stk uferdige *(diagonal swap / adjacents)*
-![line](/images/Cubing/PLL/Z-example-2.png)
+![line](/images/Cubing/PLL/Z-example-2.2.png)
 ha de som skal swappes på Front og Right <br>
 ` M' U' M2 U' M2 U' M' U2 M2 (U )    -- (M' goes upwards)`
 
