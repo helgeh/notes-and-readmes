@@ -30,3 +30,13 @@ rcon.password=malurt-aksebrudd-batsfjord
 # Vault Hunters 3rd
 
 wget https://maven.minecraftforge.net/net/minecraftforge/forge/1.18.2-40.2.17/forge-1.18.2-40.2.17-installer.jar
+
+
+---
+
+
+Gabanite
+Andesite
+Diorite
+Granite
+Gaabanite

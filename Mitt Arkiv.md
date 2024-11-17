@@ -9,6 +9,8 @@
 - Once Upon A Time In Hollywood
 - Mulholland Drive
 - Usual Suspects
+- Fight Club
+- Do The Right Thing
 - Interstellar
 - I Kina Spiser De Hund
 - Blinkende Lykter
@@ -16,6 +18,7 @@
 - Ringenes Herre
 - Baraka
 - Chronos
+
 
 
 

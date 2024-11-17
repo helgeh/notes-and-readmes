@@ -1,4 +1,11 @@
 
+---
+
+Alternativ måte å lese twitter:
+https://xcancel.com/search?f=tweets&q=%23narkotwitter&since=&until=&near=
+
+---
+
 Avansert Rofi config:
 https://github.com/adi1090x/rofi/
 
@@ -42,3 +49,8 @@ discord Mira i gåbananane hook url
 ```
 
 ---
+
+> The rich get what they want, the poor loose what they need
+
+---
+

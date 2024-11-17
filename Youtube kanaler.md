@@ -9,7 +9,6 @@
 - Tom Scott
 - Stand-up Maths
 - Primitive Technology
-- Vsauce
 
 
 ## A
@@ -25,7 +24,9 @@
 - Strange Parts
 - NightHawkInLight
 - Frank Tedesco
-- 
+- Harry Mack
+- NakeyJakey
+- Vsauce
 
 
 ## B
@@ -59,7 +60,6 @@
 - Yes Theory
 - Fstoppers
 - Kiptoe
-- Braille Skateboarding
 - Luke Towan
 - 
 
@@ -98,4 +98,4 @@
 # Musikk
 - Dyalla
 - David Cutter
-- 
+- Harry Mack

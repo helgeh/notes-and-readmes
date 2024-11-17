@@ -32,10 +32,10 @@ sudo iptables -I INPUT -s 139.162.177.160 -j DROP
 ---
 ---
 
-sudo docker buildx build -t begynnelse:1.0.15 .
+sudo docker buildx build -t begynnelse -t begynnelse:1.0.19 .
 
 
-sudo docker run --name begynnelse-1.0.15 --restart unless-stopped --volume ./data/public:/home/node/app/public --net proxiable --net-alias begynnelse -d begynnelse:1.0.15
+sudo docker run --name begynnelse-1.0.19 --restart unless-stopped --volume ./data/public:/home/node/app/public --net proxiable --net-alias begynnelse -d begynnelse:1.0.19
 
 ---
 
@@ -45,9 +45,13 @@ sudo docker run --name begynnelse-1.0.2-0 --restart unless-stopped --volume ./da
 
 ---
 
-sudo docker buildx build -t admin-blokkdannelse -t admin-blokkdannelse:0.0.8 .
+```
+sudo docker buildx build -t admin-blokkdannelse -t admin-blokkdannelse:0.0.20 .
+```
 
-sudo docker run --name adm-blokkda-08 --restart unless-stopped --volume ./data/public:/home/node/app/public --volume ./data/logs:/home/node/app/logs --volume /opt/minecraft/.config:/home/node/.opt-minecraft -e MC_RCON_PW=\*\*\* --net proxiable --net-alias admin-blokkdannelse -d admin-blokkdannelse
+```
+sudo docker run --name adm-blokkda-020 --restart unless-stopped --volume ./data/public:/home/node/app/public --volume ./data/logs:/home/node/app/logs --volume /opt/minecraft:/home/node/.opt-minecraft -e MC_RCON_PW=malurt-aksebrudd-batsfjord --net proxiable --net-alias admin-blokkdannelse -d admin-blokkdannelse:latest
+```
 
 sudo docker container rename admin-blokkdannelse-0.0.4 adm-blokkda
 

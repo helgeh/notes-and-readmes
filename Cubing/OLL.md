@@ -59,6 +59,6 @@ snu t'n til venstre - de 2 manglende Front og Back <br>
 #### Hvis 2 hjørner ferdig *(U / de siste peker oppover)*
 ![line](/images/Cubing/OLL/U-example-2.png)
 snu u'en opp ned - de 2 manglende på Front <br>
-` R2 D  R' U2 R  D' R' U2 R' `
+` R2 D  (R' U2 R)  D' (R' U2 R') `
 
 ---

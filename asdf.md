@@ -19,3 +19,4 @@ Shawn Been
 Sheen Bawn
 
 ---
+https://en.wikibooks.org/wiki/Unicode/List_of_useful_symbols
